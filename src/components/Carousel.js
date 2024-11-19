@@ -1,7 +1,7 @@
 import React from 'react'
-import img1 from './Images/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg';
-import img2 from './Images/chad-montano-MqT0asuoIcU-unsplash.jpg';
-import img3 from './Images/davide-cantelli-jpkfc5_d-DI-unsplash.jpg';
+import img1 from 'https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-…';
+import img2 from 'https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-…';
+import img3 from 'https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-…';
 
 export default function Carousel() {
     return (

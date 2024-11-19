@@ -3,9 +3,9 @@ import Card from '../components/Card';
 // import Carousel from '../components/Carousel';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
-import img1 from '../components/Images/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg';
-import img2 from '../components/Images/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg';
-import img3 from '../components/Images/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg';
+import img1 from '../components/Images/360_F_252388016_KjPnB9vglSCuUJAumCDNbmMzGdzPAucK.jpg';
+import img2 from '../components/Images/flatten.jpg';
+import img3 from '../components/Images/depositphotos_156864962-stock-photo-various-herbs-and-spices.jpg';
 
 export default function Home() {
   const [foodCat, setFoodCat] = useState([]);
