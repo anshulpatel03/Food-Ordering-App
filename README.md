@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# HostelBites 🍴
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A food ordering platform tailored for hostel canteens, enabling students to seamlessly order food from anywhere on campus.
 
-## Available Scripts
+## 📅 Project Duration
+**June 2024 - Nov 2024**
 
-In the project directory, you can run:
+## 👥 Group Project
+Developed collaboratively by a team of passionate developers to enhance the dining experience in hostels.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **User-Friendly Interface**  
+   - Dynamic front-end developed with React for smooth user interactions.
+   - State management implemented using Context API for real-time updates and interactivity.
 
-### `npm test`
+2. **Secure User Sessions**  
+   - User authentication powered by JSON Web Tokens (JWT) for reliable and secure login sessions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Efficient Data Management**  
+   - MongoDB database for managing menus, orders, and user data with high scalability and quick access.
 
-### `npm run build`
+4. **Powerful Backend**  
+   - RESTful APIs built with Node.js to handle core functionalities like menu retrieval, order management, and user profiles.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend**: React, Context API  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Authentication**: JSON Web Token (JWT)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📑 Key Functionalities
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Menu Browsing**  
+   - Hostel canteen menus are displayed dynamically with a clean and responsive interface.
+   - Users can filter and sort menus based on food categories.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Order Placement**  
+   - Students can place food orders directly through the platform without physically visiting the canteen.
+   - Simplifies the ordering process and reduces queue times.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Secure Authentication**  
+   - User login is secured using JSON Web Tokens (JWT) to ensure safe and private sessions.
+   - Password encryption is implemented for data security.
 
-## Learn More
+4. **Scalable Database Design**  
+   - MongoDB is used to manage and store user data, menus, and order histories.
+   - The database is optimised for quick access and supports large datasets.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. **API Integration**  
+   - RESTful APIs handle core functionalities like menu retrieval, order placement, and user authentication.
+   - Ensures smooth communication between the frontend and backend.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. **Responsive Design**  
+   - The platform is mobile-friendly and works seamlessly across different devices, ensuring accessibility from anywhere on campus.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
